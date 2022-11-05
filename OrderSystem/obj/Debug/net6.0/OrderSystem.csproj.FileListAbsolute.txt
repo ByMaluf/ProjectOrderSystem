@@ -1,0 +1,15 @@
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\bin\Debug\net6.0\OrderSystem.exe
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\bin\Debug\net6.0\OrderSystem.deps.json
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\bin\Debug\net6.0\OrderSystem.runtimeconfig.json
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\bin\Debug\net6.0\OrderSystem.dll
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\bin\Debug\net6.0\OrderSystem.pdb
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\OrderSystem.csproj.AssemblyReference.cache
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\OrderSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\OrderSystem.AssemblyInfoInputs.cache
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\OrderSystem.AssemblyInfo.cs
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\OrderSystem.csproj.CoreCompileInputs.cache
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\OrderSystem.dll
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\refint\OrderSystem.dll
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\OrderSystem.pdb
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\OrderSystem.genruntimeconfig.cache
+C:\Users\brenn\source\repos\OrderSystem\OrderSystem\obj\Debug\net6.0\ref\OrderSystem.dll
